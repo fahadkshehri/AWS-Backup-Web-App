@@ -7,8 +7,8 @@ Dependencies:
 -Any Python 3x version  
 -boto3
 
-To intall boto3
-python -m pip install boto3
+To install boto3:
+- python -m pip install boto3
 
 
 
