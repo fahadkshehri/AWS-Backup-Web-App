@@ -4,8 +4,10 @@
 Objective: A Pyhon program to backup a local directory on your machine to an AWS S3 backet on the cloud. 
 
 Dependencies: 
--Any Python 3x version  
--boto3
+- Any Python 3x version  
+- boto3
+- AWS IAM
+- AWS S3 Unique Buckets
 
 To install boto3:
 - python -m pip install boto3
