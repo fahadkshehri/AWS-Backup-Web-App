@@ -1,16 +1,16 @@
 # AWS-Backup-Web-App
 
 
-#Objective: A Pyhon program to backup a local directory on your machine to an AWS S3 backet on the cloud. 
+# Objective: A Pyhon program to backup a local directory on your machine to an AWS S3 backet on the cloud. 
 
-#Dependencies: 
+# Dependencies: 
 -Any Python 3x version  
 -boto3
 
-#To intall boto3
+# To intall boto3
 python -m pip install boto3
 
-#Building the Program:
+# Building the Program:
 - unzip the file
 - open a Windows CMD
 - Locate the file 
